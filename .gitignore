@@ -1,0 +1,15 @@
+# Arquivos locais do Power BI Desktop
+**/.pbi/
+**/localSettings.json
+**/unappliedChanges.json
+*.abf
+*.tmp
+*.log
+
+# Ambiente Python e sistema operacional
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db
+.env
+.env.*

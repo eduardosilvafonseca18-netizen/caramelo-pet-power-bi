@@ -1,0 +1,120 @@
+{
+  "name": "pbigen-evidence.json",
+  "background": "#E7EBEE",
+  "bad": "#A63A3A",
+  "dataColors": [
+    "#F4A72C",
+    "#0B2545",
+    "#5C6B7A",
+    "#A8B3BD"
+  ],
+  "foreground": "#0B2545",
+  "good": "#2E7D5B",
+  "neutral": "#5C6B7A",
+  "tableAccent": "#F4A72C",
+  "textClasses": {
+    "callout": {
+      "color": "#0B2545",
+      "fontFace": "Segoe UI",
+      "fontSize": 40
+    },
+    "header": {
+      "color": "#0B2545",
+      "fontFace": "Segoe UI",
+      "fontSize": 16
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10
+    },
+    "largeTitle": {
+      "color": "#0B2545",
+      "fontFace": "Segoe UI",
+      "fontSize": 16
+    },
+    "title": {
+      "color": "#0B2545",
+      "fontFace": "Segoe UI",
+      "fontSize": 12
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#ffffff"
+              }
+            },
+            "show": true
+          }
+        ],
+        "border": [
+          {
+            "radius": 8,
+            "show": false
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "padding": [
+          {
+            "bottom": 12,
+            "left": 12,
+            "right": 12,
+            "top": 12
+          }
+        ]
+      }
+    },
+    "cardVisual": {
+      "*": {
+        "fillCustom": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E7EBEE"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "pageNavigator": {
+      "*": {
+        "padding": [
+          {
+            "bottom": 4,
+            "left": 4,
+            "right": 4,
+            "top": 4
+          }
+        ]
+      }
+    }
+  }
+}
